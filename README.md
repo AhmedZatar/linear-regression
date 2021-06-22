@@ -1,0 +1,1 @@
+[https://github.com/AhmedZatar/linear-regression/pull/1](https://github.com/AhmedZatar/linear-regression/pull/1)
